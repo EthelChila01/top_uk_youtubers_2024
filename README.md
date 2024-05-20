@@ -44,9 +44,9 @@
  To create a dashboard that provides insights into the top UK YouTubers in 2024 that includes their
 
    * subscriber count
-   *total views
-   *total videos, and
-   *engagement metrics
+   * total views
+   * total videos, and
+   * engagement metrics
 
 This will help the marketing team make informed decisions about which YouTubers to collaborate with for their marketing campaigns.
 
@@ -60,7 +60,7 @@ With this information, I can make more informed decisions about which Youtubers 
 
 # Data Source
 
-   *What data is needed to achieve our objective?
+   * What data is needed to achieve our objective?
    
 We need data on the top UK YouTubers in 2024 that includes their
 
