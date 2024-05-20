@@ -1,18 +1,13 @@
 # Data Portfolio
 
-
-# Header
-
-## Subheader
-
-
 ![excel_to_powerbi_animated-diagram](assets/images/kaggle_to_powerbi.gif)
-
 
 # Table of contents
 
+- [Objective](#objective)
 
 # Objective
+
    * What is the key point?
      
  The Head of Marketing wants to find out who the top YouTubers are in 2024 to decide on which YouTubers would be best to run marketing campaigns 
