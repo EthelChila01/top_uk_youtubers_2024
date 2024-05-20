@@ -5,6 +5,32 @@
 # Table of contents
 
 - [Objective](#objective)
+  - [User story](#user-story)
+- [Data source](#data-source)
+- [Stages](#stages)
+- [Design](#design)
+  - [Dashboard components](#dashboard-components-required)
+- [Dashboard mockup](#dashboard-mockup)
+- [Tools](#tools)
+- [Development](#development)
+- [Pseudocode](#pseudocode)
+- [Data exploration notes](#data-exploration-notes)
+- [Data cleaning](#data-cleaning)
+  - [Transform the data](#transform-the-data)
+  - [Create the SQL view](#create-the-sql-view)
+- [Testing](#testing)
+  - [Column count check](#column-count-check)
+  - [Data type check](#data-type-check)
+  - [Duplicate count check](#duplicate-count-check)
+- [Visualisation](#visualisation)
+  - [DAX measures](#dax-measures)
+- [Analysis](#analysis)
+  - [Validation](#validation)
+  - [Discovery](#discovery)
+- [Recommendations](#recommendations)
+  - [Potential ROI](#potential-ROI)
+  - [Action plan](#action-plan)
+   
 
 # Objective
 
@@ -32,7 +58,7 @@ This dashboard should allow me to identify the top performing channels based on 
 
 With this information, I can make more informed decisions about which Youtubers are right to collaborate with, and therefore maximize how effective each marketing campaign is.
 
-# Data source
+# Data Source
 
    *What data is needed to achieve our objective?
    
@@ -70,7 +96,7 @@ To understand what it should contain, we need to figure out what questions we ne
    6. Which 3 channels have the highest subscriber engagement rate per video uploaded?
 For now, these are some of the questions we need to answer, this may change as we progress down our analysis.
 
-# Dashboard mockup
+## Dashboard mockup
 
    * What should it look like?
 Some of the data visuals that may be appropriate in answering our questions include:
@@ -82,7 +108,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
      
 ![Dashboard_mockup](assets/images/dashboard_mockup.png)
 
-# Tools
+## Tools
 
 Tool       | Purpose                                                   |
 ---------- | ----------------------------------------------------------
@@ -296,7 +322,7 @@ HAVING
 
 ![duplicate_check](assets/images/4_duplicate_records_check.png)
 
-## Visualisation
+# Visualisation
 
 ### Results
 
@@ -304,7 +330,7 @@ HAVING
 
 ![dashboard_example](assets/images/top_uk_youtubers_2024.gif)
 
-## DAX Measures
+# DAX Measures
 ### 1. Total Subscribers (M)
 
 ```dax
@@ -444,7 +470,7 @@ For this analysis, we'll prioritize analysing the metrics that are important in 
    * videos uploaded
 
 
-## Validation
+# Validation
 
 ### 1. Youtubers with the most subscribers
 
@@ -673,7 +699,7 @@ We discovered that
    3. DanTDM, Dan RHodes and Mister Max are the channels with the most views
    4. Entertainment channels are useful for broader reach, as the channels posting consistently on their platforms and generating the most engagement are focus on entertainment and music
       
-### Recommendations
+# Recommendations
 
    * What do you recommend based on the insights gathered?
    1. Dan Rhodes is the best YouTube channel to collaborate with if we want to maximize visbility because this channel has the most YouTube subscribers in the UK
