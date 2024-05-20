@@ -307,7 +307,7 @@ HAVING
 
    * What does the dashboard look like?
 
-![dashboard](top_uk_youtubers_2024.gif)
+![duplicate_check](assets/images/4_duplicate_records_check.png)
 
 ## DAX Measures
 ### 1. Total Subscribers (M)
