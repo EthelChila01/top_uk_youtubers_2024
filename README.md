@@ -225,7 +225,7 @@ FROM
 
 ### Output
 
-![row_count_check](1_row_count_check.png)
+![row_count_check](assets/images/1_row_count_check.png)
 
 ## Column count check
 
@@ -247,7 +247,7 @@ WHERE
 
 ### Output
 
-![column_count_check](2_column_count_check.png)
+![column_count_check](assets/images/2_column_count_check.png)
 
 ## Data type check
 
@@ -269,7 +269,7 @@ WHERE
 ```
 ### Output
 
-![data_type_check](3_data_type_check.png)
+![data_type_check](assets/images/3_data_type_check.png)
 
 ## Duplicate count check
 
@@ -299,7 +299,7 @@ HAVING
 ```
 ### Output
 
-![duplicate_records_check](4_duplicate_records_check.png)
+![duplicate_check](assets/images/4_duplicate_records_check.png)
 
 ## Visualisation
 
@@ -307,7 +307,7 @@ HAVING
 
    * What does the dashboard look like?
 
-![duplicate_records_check](top_uk_youtubers_2024.gif)
+![dashboard](top_uk_youtubers_2024.gif)
 
 ## DAX Measures
 ### 1. Total Subscribers (M)
