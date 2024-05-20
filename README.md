@@ -665,7 +665,9 @@ Best option from category: Mister Max
 
 ### SQL query
 
-![youtubers_with_most_views](youtubers_with_the_most_views.png)
+![youtubers_with_most_views](assets/images/youtubers_with_the_most_views.png)
+
+youtubers_with_the_most_views.png
 
 ## Discovery
    * What did we learn?
