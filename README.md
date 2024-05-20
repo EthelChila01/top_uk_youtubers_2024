@@ -103,14 +103,14 @@ Mokkup AI  | Designing the wireframe/mockup of the dashboard           |
 
    * What's the general approach in creating this solution from start to finish?
    * Get the data
-   *Explore the data in Excel
-   *Load the data into SQL Server
-   *Clean the data with SQL
-   *Test the data with SQL
-   *Visualize the data in Power BI
-   *Generate the findings based on the insights
-   *Write the documentation + commentary
-   *Publish the data to GitHub Pages
+   * Explore the data in Excel
+   * Load the data into SQL Server
+   * Clean the data with SQL
+   * Test the data with SQL
+   * Visualize the data in Power BI
+   * Generate the findings based on the insights
+   * Write the documentation + commentary
+   * Publish the data to GitHub Pages
 
 # Data exploration notes
 
