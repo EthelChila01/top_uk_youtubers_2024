@@ -1,4 +1,4 @@
-# Data Portfolio
+# Data Portfolio: Excel to Power BI
 
 ![excel_to_powerbi_animated-diagram](assets/images/kaggle_to_powerbi.gif)
 
