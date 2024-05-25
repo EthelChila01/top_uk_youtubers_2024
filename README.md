@@ -111,7 +111,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 ## Tools
 
 Tool       | Purpose                                                   |
----------- | ----------------------------------------------------------
+---------- | ----------------------------------------------------------|
 Excel      | Exploring the data                                        | 
 SQL Server | Cleaning, testing, and analyzing the data                 |
 Power BI   | SQL Server   | Cleaning, testing, and analyzing the data  |
